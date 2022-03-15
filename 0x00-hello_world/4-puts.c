@@ -1,7 +1,6 @@
 #include <stdio.h>
-
-/*
- * Put used for printing 
+/**
+ * main - Entry point 
  *
  * Return: Always 0 (Success) 
  */
