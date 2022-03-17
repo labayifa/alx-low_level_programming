@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_alphabet - Custm print aplahbet
+ * print_alphabet - Custom print aplahbet
  * Description: Print the Alphabet
  * Return: Always void.
  *
