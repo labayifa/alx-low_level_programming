@@ -2,9 +2,11 @@
 #define MAIN_H
 
 /**
- * print_alphabet
- * Description : Put char
- * Return : Always void 
+ * _isupper - Check if an int value is upper or not
+ *
+ * Description : UpperCase check function
+ *
+ * Return : 0 or 1
  */
 int _isupper(int c);
 
