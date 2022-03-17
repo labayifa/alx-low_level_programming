@@ -2,8 +2,8 @@
 
 /**
  * print_alphabet
- * Description : Print the Alphabet
- * Return : Always void 
+ * Description: Print the Alphabet
+ * Return: Always void.
  *
 */
 void print_alphabet(void)
