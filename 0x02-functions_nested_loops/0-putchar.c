@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "main.h"
 /**
  * Put char printing
  * return 0 (Aways)
