@@ -1,9 +1,10 @@
 #include "main.h"
 /**
- * Put char printing
- * return 0 (Aways)
+ * main - Entry point
+ * Description: Print _putchar
+ * Return: Always 0.
  *
- */
+*/
 int main(void)
 {
 	printf("_putchar\n");
