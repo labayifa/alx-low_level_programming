@@ -1,12 +1,18 @@
 #include "main.h"
+
 /**
- * main - Entry point
- * Description: Print Alphabet
- * Return: Always 0.
+ * print_alphabet
+ * Description : Print the Alphabet
+ * Return : Always void 
  *
 */
-int main(void)
+void print_alphabet(void)
 {
-	print_alphabet();
-	return (0);
+	char ch;
+
+	for(ch = 'a' ; ch <= 'z' ; ch++) {
+		_putchar(ch);
+	}
+   	_putchar('\n');
 }
+
