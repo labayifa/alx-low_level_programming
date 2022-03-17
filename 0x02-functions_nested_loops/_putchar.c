@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_alphabet
+ * _putchar - Custum putchar function
  * Description : Put char
  * Return : Always void 
  *
