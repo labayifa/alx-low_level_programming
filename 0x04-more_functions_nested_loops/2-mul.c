@@ -1,10 +1,12 @@
 #include "main.h"
 
 /**
- * @a: first input
- * @b: second input
- * Return: int multiplication result of the 2 inputs
+ * mul - multiplies two numbers
+ * @a: first number
+ * @b: second number
+ * Return: returns result
  */
+
 int mul(int a, int b)
 {
 	return (a * b);
