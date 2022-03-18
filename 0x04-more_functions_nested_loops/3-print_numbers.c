@@ -1,5 +1,9 @@
 #include "main.h"
 
+/**
+ * print_numbers - Used to print only numbers
+ * Return: Always void
+ */
 void print_numbers(void)
 {
 	int i = 0;
