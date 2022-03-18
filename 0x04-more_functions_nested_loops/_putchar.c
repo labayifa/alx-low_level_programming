@@ -1,9 +1,10 @@
 #include "main.h"
+#include <stdio.h>
 
 /**
  * _putchar - Used to print only char
  * @c: input
- * Return: Always void
+ * Return: void
  */
 void _putchar(int c)
 {
