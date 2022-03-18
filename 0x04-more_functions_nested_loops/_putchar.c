@@ -1,7 +1,8 @@
 #include "main.h"
 
 /**
- * print_numbers - Used to print only char
+ * _putchar - Used to print only char
+ * @c: input
  * Return: Always void
  */
 void _putchar(int c)
