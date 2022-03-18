@@ -1,15 +1,15 @@
 #include "main.h"
 
 /**
- * print_line - prints a straight line
- * @n: parameter
- * Return:returns nothing
+ * main - check the code
+ *
+ * Return: Always 0.
  */
-void print_line(int n)
+int main(void)
 {
-	while (n-- > 0)
-	{
-		_putchar('_');
-	}
-	_putchar('\n');
+	print_line(0);
+	print_line(2);
+	print_line(10);
+	print_line(-4);
+	return (0);
 }
