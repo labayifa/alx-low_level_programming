@@ -1,8 +1,11 @@
 #include "main.h"
 
 /**
- * @c: second input
- * Return: whether a char is digit or not
+ * _isdigit - checks if letters are digit.
+ * @c: input.
+ *
+ * Return: 1 if c is digit
+ * 0 otherwise.
  */
 int _isdigit(int c)
 {
