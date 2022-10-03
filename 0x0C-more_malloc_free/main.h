@@ -5,7 +5,7 @@
 #include <stdlib.h>
 #define min(x, y) (((x) < (y)) ? (x) : (y))
 
-int _putchar(char c);
+int _putchar(int c);
 void *malloc_checked(unsigned int b);
 char *string_nconcat(char *s1, char *s2, unsigned int n);
 int len(char *str);

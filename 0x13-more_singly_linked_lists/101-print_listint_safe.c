@@ -16,7 +16,7 @@ size_t print_listint_safe(const listint_t *head)
 	ptrs = malloc(sizeof(listint_t) * list_len);
 	if (ptrs == NULL)
 		exit(98);
-	while (cursor == 0)
+	while (cursor != NULL)
 	{
 		if (check_ptr(cursor, ptrs, list_len) == 0)
 		{
